@@ -1,1 +1,1 @@
-# BURGOS_ANDR-S_PR-CTICA_3_PERCEPTR-N_INTELIGENCIA_ARTIFICIAL
+En el archivo "Burgos_Andrés_Práctica_3_EL_PERCEPTRÓN.ipynb", se encuentra desarrollada la práctica correspondiente.
